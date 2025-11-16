@@ -4,3 +4,8 @@
 """
 s = str(input("Введіть речення: "))
 print("Слова, які містять три літери 'е':" )
+djoin = s.split(" ")
+
+for word in djoin:
+    if word.count('е') == 3:
+        print(word)

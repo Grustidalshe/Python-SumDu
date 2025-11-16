@@ -5,5 +5,5 @@
 a = str(input("Введіть слово: "))
 
 # Обчислення суми ASCII кодів символів
-sum_ascii = sum(a.encode('ascii'))
+sum_ascii = sum(ord(char) for char in a)
 print("Сума ASCII кодів символів слова:", sum_ascii)
