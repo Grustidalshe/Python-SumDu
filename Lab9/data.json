@@ -1,0 +1,101 @@
+[
+  {
+    "Name": "Vasiliy",
+    "Surname": "Logvinov",
+    "Patronymic": "Antonovich",
+    "Adress": "Mira 5",
+    "School": 9,
+    "Class": 6,
+    "Day": "неділя"
+  },
+  {
+    "Name": "Anton",
+    "Surname": "Lipovyi",
+    "Patronymic": "Andreevich",
+    "Adress": "Naberezhnaya 10",
+    "School": 10,
+    "Class": 10,
+    "Day": "субота"
+  },
+  {
+    "Name": "Alina",
+    "Surname": "Popovich",
+    "Patronymic": "Viktorovna",
+    "Adress": "Pushkina 5",
+    "School": 10,
+    "Class": 11,
+    "Day": "неділя"
+  },
+  {
+    "Name": "Iryna",
+    "Surname": "Petrenko",
+    "Patronymic": "Ivanivna",
+    "Adress": "Shevchenka 3",
+    "School": 5,
+    "Class": 7,
+    "Day": "субота"
+  },
+  {
+    "Name": "Oksana",
+    "Surname": "Bondarenko",
+    "Patronymic": "Mykolaivna",
+    "Adress": "Lermontova 7",
+    "School": 8,
+    "Class": 8,
+    "Day": "субота"
+  },
+  {
+    "Name": "Maksym",
+    "Surname": "Koval",
+    "Patronymic": "Petrovich",
+    "Adress": "Sovetskaya 12",
+    "School": 3,
+    "Class": 7,
+    "Day": "неділя"
+  },
+  {
+    "Name": "Olena",
+    "Surname": "Kostenko",
+    "Patronymic": "Serhiivna",
+    "Adress": "Druzhby 4",
+    "School": 6,
+    "Class": 8,
+    "Day": "субота"
+  },
+  {
+    "Name": "Dmytro",
+    "Surname": "Kuznetsov",
+    "Patronymic": "Olehovich",
+    "Adress": "Parkova 15",
+    "School": 4,
+    "Class": 9,
+    "Day": "субота"
+  },
+  {
+    "Name": "Anna",
+    "Surname": "Melnyk",
+    "Patronymic": "Andriivna",
+    "Adress": "Gagarina 2",
+    "School": 2,
+    "Class": 7,
+    "Day": "субота"
+  },
+  {
+    "Name": "Mykola",
+    "Surname": "Horban",
+    "Patronymic": "Ivanovich",
+    "Adress": "Soborna 1",
+    "School": 1,
+    "Class": 8,
+    "Day": "неділя"
+  },
+  {
+    "Name": "шмфт",
+    "Surname": "bobs",
+    "Patronymic": "frjg",
+    "Adress": "ewc3 3",
+    "School": 2,
+    "Class": 8,
+    "Day": "субота"
+  }
+]
