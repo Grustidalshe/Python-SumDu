@@ -3,7 +3,6 @@ import os
 
 NO_DATA = ".."
 
-#
 def read_file(path, var_name):
     try:
         with open(path, "r", encoding="utf-8") as csvfile: #відкриття файлу для читання
